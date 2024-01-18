@@ -1,7 +1,7 @@
 # credit-risk-classification
 In this repository, you can find the report template, the lending data .csv (77536 observations), and the Jupyter Notebook (credit_risk_classification.ipynb) where the supervised testing happened. The following is a detailed report on the results of the models' supervised learning.
 
-# Module 12 Report Template
+# Module 12 Report
 
 ## Overview of the Analysis
 
